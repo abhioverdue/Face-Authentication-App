@@ -249,9 +249,9 @@ PyYAML==6.0.1
 
 **Local Network**
 ```bash
-streamlit run app.py --server.address 0.0.0.0
+streamlit run app.py 
 ```
-Access from other devices: `http://YOUR_IP:8501`
+Access from other devices: `http://localhost:8501`
 
 **Cloud (Streamlit Cloud)**
 1. Push to GitHub
