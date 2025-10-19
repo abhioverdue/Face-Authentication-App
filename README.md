@@ -1,6 +1,18 @@
 # Face Recognition Access Control System
 
 A face recognition system with guided photo capture, admin panel, and emotion detection built with Python, DeepFace, and Streamlit.
+<img width="1907" height="906" alt="Screenshot 2025-10-18 024634" src="https://github.com/user-attachments/assets/e93328e2-1bc2-41d6-9c26-ce8d3df39295" />
+<img width="1889" height="920" alt="Screenshot 2025-10-18 024702" src="https://github.com/user-attachments/assets/00046fab-93f0-4e17-98b0-e90c3cd71824" />
+<img width="1907" height="900" alt="Screenshot 2025-10-18 024724" src="https://github.com/user-attachments/assets/5e0de6fb-eaba-42f8-bf92-1f37a1cf07d9" />
+<img width="1907" height="914" alt="Screenshot 2025-10-18 024744" src="https://github.com/user-attachments/assets/4f8c5c4f-c0f0-4da5-8e4d-b09a9f38677b" />
+<img width="1907" height="908" alt="Screenshot 2025-10-18 024758" src="https://github.com/user-attachments/assets/3f30d938-88c6-4539-8c1d-858f5b7b9ef9" />
+<img width="1907" height="907" alt="Screenshot 2025-10-18 024820" src="https://github.com/user-attachments/assets/998a1b6d-6dd7-46ee-b34a-57cd06dfdacf" />
+<img width="1907" height="910" alt="Screenshot 2025-10-18 024832" src="https://github.com/user-attachments/assets/2f5717ef-764a-467d-bbac-e48192884d5b" />
+<img width="1907" height="901" alt="Screenshot 2025-10-18 024857" src="https://github.com/user-attachments/assets/612bf8c0-447a-4ef0-aa40-32a07edb4853" />
+<img width="1906" height="905" alt="Screenshot 2025-10-18 024917" src="https://github.com/user-attachments/assets/a9653cc2-455d-47b3-a38a-ece69fe03004" />
+
+
+
 ---
 
 ## Features
