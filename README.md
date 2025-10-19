@@ -27,7 +27,7 @@ A face recognition system with guided photo capture, admin panel, and emotion de
 ## Project Structure
 
 ```
-face-auth-system/
+Face-Authentication-App/
 ├── app.py                      # Main launcher
 ├── pages/
 │   ├── Admin_App.py          # Admin panel
@@ -59,7 +59,7 @@ face-auth-system/
 **Setup**
 ```bash
 # Clone/download and navigate to project
-cd face-auth-system
+cd Face-Authentication-App
 
 # Create and activate virtual environment
 python -m venv .venv
