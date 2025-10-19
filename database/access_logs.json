@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-10-18 02:29:41",
+    "user_name": "Abhinayaa",
+    "confidence": 83.3,
+    "emotion": "fear",
+    "suspicious": false,
+    "status": "granted"
+  },
+  {
+    "timestamp": "2025-10-18 02:49:08",
+    "user_name": "Abhinayaa",
+    "confidence": 81.26,
+    "emotion": "happy",
+    "suspicious": false,
+    "status": "granted"
+  }
+]
